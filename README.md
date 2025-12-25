@@ -11,15 +11,12 @@ Always curious about learning new technologies and improving system design skill
 ## 🚀 Things I code with
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -27,8 +24,6 @@ Always curious about learning new technologies and improving system design skill
 
 | 📦 Project | ⭐ Stars | 🍴 Forks |
 |-----------|---------|---------|
-| **Drug Inventory Management System** | ⭐ | 🍴 |
-| **AI-Based Cyber Threat Intelligence System** | ⭐ | 🍴 |
 | **Backend Practice Projects (Node + Spring Boot)** | ⭐ | 🍴 |
 | **DSA & Problem Solving (Java)** | ⭐ | 🍴 |
 
